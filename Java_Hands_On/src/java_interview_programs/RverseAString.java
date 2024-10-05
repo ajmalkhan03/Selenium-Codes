@@ -27,7 +27,7 @@ public class RverseAString {
 	}
 	
 	System.out.println(reversed);
-	
+	System.out.println(reversed);
 	
 	
 	
